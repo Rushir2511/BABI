@@ -1,10 +1,10 @@
 console.log('YOU ARE A BABI');
 
-var b = 'BABI';
+var b = 'THIS IS JUST FOR FUN AND NOT TO BE TAKEN SERIOUSLY';
+
+alert('BABI');
 
 alert(b);
-
-alert('YOU ARE BABI');
 
 console.log(b);
 
